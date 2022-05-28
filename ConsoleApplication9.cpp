@@ -13,7 +13,7 @@ public:
 		return lvl;
 	}
 };
-
+ 
 
 double division(int a, int b)
 {
